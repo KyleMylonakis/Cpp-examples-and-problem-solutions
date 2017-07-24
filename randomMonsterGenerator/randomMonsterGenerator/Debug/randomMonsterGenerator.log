@@ -1,0 +1,4 @@
+﻿  randomMonsterGenerator.cpp
+c:\users\imnze\dropbox\programming tutorials\c++\randommonstergenerator\randommonstergenerator\randommonstergenerator.cpp(65): warning C4715: 'Monster::getTypeString': not all control paths return a value
+  randomMonsterGenerator.vcxproj -> C:\Users\imnze\Dropbox\Programming Tutorials\C++\randomMonsterGenerator\Debug\randomMonsterGenerator.exe
+  randomMonsterGenerator.vcxproj -> C:\Users\imnze\Dropbox\Programming Tutorials\C++\randomMonsterGenerator\Debug\randomMonsterGenerator.pdb (Full PDB)

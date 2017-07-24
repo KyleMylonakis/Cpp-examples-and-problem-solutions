@@ -1,0 +1,4 @@
+﻿  monster_functions_real.cpp
+c:\users\imnzerg\dropbox\programming tutorials\c++\monster quiz\monster quiz\monster_functions_real.cpp(18): warning C4715: 'printMonsterType': not all control paths return a value
+  monster quiz.vcxproj -> C:\Users\imnzerg\Dropbox\Programming Tutorials\C++\monster quiz\Debug\monster quiz.exe
+  monster quiz.vcxproj -> C:\Users\imnzerg\Dropbox\Programming Tutorials\C++\monster quiz\Debug\monster quiz.pdb (Full PDB)

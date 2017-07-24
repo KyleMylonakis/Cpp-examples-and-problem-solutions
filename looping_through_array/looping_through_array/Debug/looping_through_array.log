@@ -1,0 +1,4 @@
+﻿  looping_through_array.cpp
+c:\users\imnzerg\dropbox\programming tutorials\c++\looping_through_array\looping_through_array\looping_through_array.cpp(49): warning C4715: 'findNumberIndexInArray': not all control paths return a value
+  looping_through_array.vcxproj -> C:\Users\imnzerg\Dropbox\Programming Tutorials\C++\looping_through_array\Debug\looping_through_array.exe
+  looping_through_array.vcxproj -> C:\Users\imnzerg\Dropbox\Programming Tutorials\C++\looping_through_array\Debug\looping_through_array.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  binary_search_recursive.cpp
+c:\users\imnze\dropbox\programming tutorials\c++\binary_search_recursive\binary_search_recursive\binary_search_recursive.cpp(30): warning C4715: 'binarySearch': not all control paths return a value
+  binary_search_recursive.vcxproj -> C:\Users\imnze\Dropbox\Programming Tutorials\C++\binary_search_recursive\Debug\binary_search_recursive.exe
+  binary_search_recursive.vcxproj -> C:\Users\imnze\Dropbox\Programming Tutorials\C++\binary_search_recursive\Debug\binary_search_recursive.pdb (Full PDB)

@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  ms-mpi first stab.cpp
+c:\users\imnzerg\dropbox\programming tutorials\c++\ms-mpi first stab\ms-mpi first stab\ms-mpi first stab.cpp(4): fatal error C1041: cannot open program database 'C:\Users\imnzerg\Dropbox\Programming Tutorials\C++\ms-mpi first stab\ms-mpi first stab\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS

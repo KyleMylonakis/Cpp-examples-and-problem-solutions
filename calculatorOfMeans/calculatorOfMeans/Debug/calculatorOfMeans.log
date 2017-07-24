@@ -1,0 +1,5 @@
+﻿  calculatorOfMeans.cpp
+c:\users\imnzerg\dropbox\programming tutorials\c++\calculatorofmeans\calculatorofmeans\calculatorofmeans.cpp(81): warning C4715: 'getarithmeticFunction': not all control paths return a value
+c:\users\imnzerg\dropbox\programming tutorials\c++\calculatorofmeans\calculatorofmeans\calculatorofmeans.cpp(62): warning C4715: 'getOperation': not all control paths return a value
+  calculatorOfMeans.vcxproj -> C:\Users\imnzerg\Dropbox\Programming Tutorials\C++\calculatorOfMeans\Debug\calculatorOfMeans.exe
+  calculatorOfMeans.vcxproj -> C:\Users\imnzerg\Dropbox\Programming Tutorials\C++\calculatorOfMeans\Debug\calculatorOfMeans.pdb (Full PDB)

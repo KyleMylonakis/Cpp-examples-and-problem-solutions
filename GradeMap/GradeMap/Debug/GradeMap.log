@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  GradeMap.cpp
+c:\users\imnzerg\dropbox\programming tutorials\c++\grademap\grademap\grademap.cpp(27): warning C4172: returning address of local variable or temporary: test_name
+  GradeMap.vcxproj -> C:\Users\imnzerg\Dropbox\Programming Tutorials\C++\GradeMap\Debug\GradeMap.exe
+  GradeMap.vcxproj -> C:\Users\imnzerg\Dropbox\Programming Tutorials\C++\GradeMap\Debug\GradeMap.pdb (Full PDB)

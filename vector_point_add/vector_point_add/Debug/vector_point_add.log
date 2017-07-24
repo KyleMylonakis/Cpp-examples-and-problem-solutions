@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
+  main.cpp
+  Point3d.cpp
+  Generating Code...
+  LINK : C:\Users\imnzerg\Dropbox\Programming Tutorials\C++\vector_point_add\Debug\vector_point_add.exe not found or not built by the last incremental link; performing full link
+  vector_point_add.vcxproj -> C:\Users\imnzerg\Dropbox\Programming Tutorials\C++\vector_point_add\Debug\vector_point_add.exe
+  vector_point_add.vcxproj -> C:\Users\imnzerg\Dropbox\Programming Tutorials\C++\vector_point_add\Debug\vector_point_add.pdb (Full PDB)
